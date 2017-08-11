@@ -1,2 +1,2 @@
-# DST_Course
-Coursework for Data Scientist's Toolbox course
+# Readme file for this Repository
+## Coursework for Data Scientist's Toolbox course
